@@ -1,1 +1,1 @@
-console.log('Hello world!')
+import './shared/infra/http/app.ts';
